@@ -2,6 +2,7 @@
 title: This is my third post.
 description: This is a post on My Blog about win-win survival strategies.
 date: 2018-08-24
+draft: false
 tags:
   - second tag
   - posts with two tags
@@ -17,8 +18,8 @@ Bring to the table win-win survival strategies to ensure proactive domination. A
 ```js
 // this is a command
 function myCommand() {
-	let counter = 0;
-	counter++;
+    let counter = 0;
+    counter++;
 }
 
 // Test with a line break above this line.
@@ -32,8 +33,8 @@ Bring to the table win-win survival strategies to ensure proactive domination. A
 ```
 // this is a command
 function myCommand() {
-	let counter = 0;
-	counter++;
+    let counter = 0;
+    counter++;
 }
 
 // Test with a line break above this line.
@@ -43,3 +44,5 @@ console.log('Test');
 ## Section Header
 
 Capitalize on low hanging fruit to identify a ballpark value added activity to beta test. Override the digital divide with additional clickthroughs from DevOps. Nanotechnology immersion along the information highway will close the loop on focusing solely on the bottom line.
+
+![](/public/img/IMG_2063.jpeg)
